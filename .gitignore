@@ -1,0 +1,5 @@
+*.csv
+*.xslx
+*.txt
+.idea
+.DS_Store
