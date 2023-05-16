@@ -16,4 +16,6 @@
 дуктам аудиторию, чтобы в последствии использовать эти данные при разработке и про-
 ведении маркетинговой стратегии
 
-[Imgur](https://imgur.com/YmfHT1K)
+## Демонстрация
+
+[![Watch the video](https://i3.ytimg.com/vi/Rg-AUrIIauI/maxresdefault.jpg)](https://youtu.be/Rg-AUrIIauI)
