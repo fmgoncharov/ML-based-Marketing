@@ -18,4 +18,4 @@
 
 ## Демонстрация
 
-[![Watch the video](https://i3.ytimg.com/vi/Rg-AUrIIauI/maxresdefault.jpg)](https://youtu.be/Rg-AUrIIauI)
+[![Watch the video](https://i.ibb.co/HDvkc70/tg-image-1095861058.jpg)](https://youtu.be/Rg-AUrIIauI)
