@@ -6,9 +6,10 @@
 
 ## Ресурсы
 
-Используемые библиотеки:
+Основные библиотеки:
 - [CausalML](https://github.com/uber/causalml)
 - [EconlML](https://github.com/py-why/EconML)
+- [XGBoost](https://github.com/dmlc/xgboost)
 - [Gradio](https://github.com/gradio-app/gradio)
 
 Отчеты:
